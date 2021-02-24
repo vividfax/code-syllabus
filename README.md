@@ -2,7 +2,7 @@
 
 ## p5.js
 
-An introduction to coding through the medium of art.
+An introduction to JavaScript through the medium of art.
 
 - [The Coding Train](https://thecodingtrain.com/beginners/p5js/)
 - [Cheat Sheet](https://bmoren.github.io/p5js-cheat-sheet/)
@@ -23,3 +23,9 @@ Coding:
 Command line:
 
 - [Hack RUN](https://store.steampowered.com/app/378110/Hack_RUN/)
+
+## Topics to add
+
+- Command line
+- VSCode
+- Git
