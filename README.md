@@ -13,6 +13,12 @@ An introduction to JSON through the medium of bots.
 
 - [Code Kitchen](https://github.com/codekitchensd/2016-03-24-twitterbots)
 
+## Git and GitHub for Poets
+
+An introduction to version control and the command line.
+
+- [The Coding Train](https://thecodingtrain.com/beginners/git-and-github/)
+
 ## Games
 
 Coding:
@@ -26,6 +32,5 @@ Command line:
 
 ## Topics to add
 
-- Command line
-- VSCode
-- Git
+- [ ] VSCode
+- [ ] Markdown
