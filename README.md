@@ -29,8 +29,10 @@ Coding:
 Command line:
 
 - [Hack RUN](https://store.steampowered.com/app/378110/Hack_RUN/)
+- [Duskers](https://store.steampowered.com/app/254320/Duskers/)
 
 ## Topics to add
 
 - [ ] VSCode
 - [ ] Markdown
+- [ ] npm
