@@ -19,6 +19,14 @@ An introduction to version control and the command line.
 
 - [The Coding Train](https://thecodingtrain.com/beginners/git-and-github/)
 
+## NaNoGenMo
+
+An introduction to Python, strings and regular expressions.
+
+- [NaNoGenMo](https://nanogenmo.github.io/)
+ - [W3Schools](https://www.w3schools.com/python/python_strings.asp)
+ - [RegExr](https://regexr.com/)
+
 ## Games
 
 Coding:
@@ -36,3 +44,4 @@ Command line:
 - [ ] VSCode
 - [ ] Markdown
 - [ ] npm
+- [ ] Discord bot
