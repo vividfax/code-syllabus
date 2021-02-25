@@ -39,7 +39,8 @@ An introduction to text editors.
 An introduction to Python, strings and regular expressions.
 
 - [NaNoGenMo](https://nanogenmo.github.io/)
-- [W3Schools](https://www.w3schools.com/python/python_strings.asp)
+- [Python Syntax](https://www.w3schools.com/python/python_syntax.asp)
+- [Python Strings](https://www.w3schools.com/python/python_strings.asp)
 - [RegExr](https://regexr.com/)
 
 ## Games
