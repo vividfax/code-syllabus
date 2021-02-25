@@ -13,6 +13,13 @@ An introduction to JSON through the medium of bots.
 
 - [Code Kitchen](https://github.com/codekitchensd/2016-03-24-twitterbots)
 
+## Markdown
+
+An introduction to documentation.
+
+- [Basic Syntax](https://www.markdownguide.org/basic-syntax)
+- [Markdown Editor](https://markdown-editor.github.io/)
+
 ## Git and GitHub for Poets
 
 An introduction to version control and the command line.
@@ -49,6 +56,5 @@ Command line:
 
 ## Topics to add
 
-- [ ] Markdown
 - [ ] npm
 - [ ] Discord bot
