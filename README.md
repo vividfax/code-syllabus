@@ -30,7 +30,7 @@ An introduction to version control and the command line.
 
 An introduction to text editors.
 
-- [Getting Started with Python in VS Code](https://code.visualstudio.com/docs/python/python-tutorial)
+- [Getting Started with Python in VSCode](https://code.visualstudio.com/docs/python/python-tutorial)
 - [Keyboard Shortcuts Reference](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-macos.pdf)
 - [Best VSCode Extensions](https://dev.to/theme_selection/vs-codes-every-developers-should-use-in-2020-2fa3)
 
@@ -43,19 +43,20 @@ An introduction to Python, strings and regular expressions.
 - [Python Strings](https://www.w3schools.com/python/python_strings.asp)
 - [RegExr](https://regexr.com/)
 
+## Discord Bot
+
+An introduction to Node.js and npm.
+
+- [The Coding Train](https://thecodingtrain.com/learning/bots/discord/)
+
 ## Games
 
-Coding:
+### Coding
 
 - [Human Resource Machine](https://store.steampowered.com/app/375820/Human_Resource_Machine/)
 - [Exapunks](https://store.steampowered.com/app/716490/EXAPUNKS/)
 
-Command line:
+### Command line
 
 - [Hack RUN](https://store.steampowered.com/app/378110/Hack_RUN/)
 - [Duskers](https://store.steampowered.com/app/254320/Duskers/)
-
-## Topics to add
-
-- [ ] npm
-- [ ] Discord bot
