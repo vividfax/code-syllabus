@@ -4,20 +4,20 @@
 
 An introduction to JavaScript through the medium of art.
 
-- [The Coding Train](https://thecodingtrain.com/beginners/p5js/)
-- [Cheat Sheet](https://bmoren.github.io/p5js-cheat-sheet/)
+- [Code! Programming with p5.js](https://thecodingtrain.com/beginners/p5js/)
+- [p5.js Cheat Sheet](https://bmoren.github.io/p5js-cheat-sheet/)
 
 ## Cheap Bots, Done Quick!
 
 An introduction to JSON through the medium of bots.
 
-- [Code Kitchen](https://github.com/codekitchensd/2016-03-24-twitterbots)
+- [Twitterbots!](https://github.com/codekitchensd/2016-03-24-twitterbots)
 
 ## Git and GitHub for Poets
 
 An introduction to version control and the command line.
 
-- [The Coding Train](https://thecodingtrain.com/beginners/git-and-github/)
+- [Git and GitHub for Poets](https://thecodingtrain.com/beginners/git-and-github/)
 
 ## Markdown
 
@@ -41,13 +41,14 @@ An introduction to Python, strings and regular expressions.
 - [NaNoGenMo](https://nanogenmo.github.io/)
 - [Python Syntax](https://www.w3schools.com/python/python_syntax.asp)
 - [Python Strings](https://www.w3schools.com/python/python_strings.asp)
+- [Regular Expressions](https://www.youtube.com/watch?v=7DG3kCDx53c&list=PLRqwX-V7Uu6YEypLuls7iidwHMdCM6o2w)
 - [RegExr](https://regexr.com/)
 
 ## Discord Bot
 
 An introduction to Node.js and npm.
 
-- [The Coding Train](https://thecodingtrain.com/learning/bots/discord/)
+- [Discord Bot](https://thecodingtrain.com/learning/bots/discord/)
 
 ## Games
 
