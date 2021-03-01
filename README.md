@@ -52,10 +52,11 @@ An introduction to Node.js and npm.
 
 ## Games
 
-### Coding
+### Programming
 
 - [Human Resource Machine](https://store.steampowered.com/app/375820/Human_Resource_Machine/)
 - [Exapunks](https://store.steampowered.com/app/716490/EXAPUNKS/)
+- [Opus Magnum](https://store.steampowered.com/app/558990/Opus_Magnum/)
 
 ### Command line
 
