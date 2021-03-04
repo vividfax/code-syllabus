@@ -12,7 +12,7 @@ An introduction to JavaScript through the medium of art.
 An introduction to JSON through the medium of bots.
 
 - [Twitterbots!](https://github.com/codekitchensd/2016-03-24-twitterbots)
-- [Tracery](http://tracery.io/editor/)
+- [Tracery Editor](https://www.brightspiral.com/tracery/)
 
 ## Git and GitHub for Poets
 
