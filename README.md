@@ -51,6 +51,12 @@ An introduction to Node.js and npm.
 
 - [Discord Bot](https://thecodingtrain.com/learning/bots/discord/)
 
+## Live Coding
+
+An introduction to live coding.
+
+- [Tidal Cycles Installation](docs/TidalCyclesInstallation.md)
+
 ## Games
 
 ### Programming
