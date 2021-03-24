@@ -53,7 +53,7 @@ An introduction to Node.js and npm.
 
 ## Live Coding
 
-An introduction to live coding.
+An introduction to live coding music.
 
 - [Tidal Cycles Installation](docs/TidalCyclesInstallation.md)
 - [Tidal Club](https://www.youtube.com/watch?v=i9Rsn8-BAY4&list=PL2lW1zNIIwj3bDkh-Y3LUGDuRcoUigoDs&index=2)
