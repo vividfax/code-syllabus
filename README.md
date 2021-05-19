@@ -19,6 +19,7 @@ An introduction to JSON through the medium of bots.
 An introduction to version control and the command line.
 
 - [Git and GitHub for Poets](https://thecodingtrain.com/beginners/git-and-github/)
+- [Git Cheat Sheet](https://education.github.com/git-cheat-sheet-education.pdf)
 
 ## Markdown
 
