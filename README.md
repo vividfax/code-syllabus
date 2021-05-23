@@ -35,14 +35,14 @@ An introduction to text editors.
 - [Getting Started with Python in VSCode](https://code.visualstudio.com/docs/python/python-tutorial)
 - [Keyboard Shortcuts Reference](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-macos.pdf)
 - [Best VSCode Extensions](https://dev.to/theme_selection/vs-codes-every-developers-should-use-in-2020-2fa3)
+- [Compute Cuter](https://computecuter.com/)
 
 ## NaNoGenMo
 
 An introduction to Python, strings and regular expressions.
 
 - [NaNoGenMo](https://nanogenmo.github.io/)
-- [Python Syntax](https://www.w3schools.com/python/python_syntax.asp)
-- [Python Strings](https://www.w3schools.com/python/python_strings.asp)
+- [Javascript vs Python Syntax Cheatsheet](https://medium.com/geekculture/javascript-vs-python-syntax-cheatsheet-9bc7c59599c6)
 - [Regular Expressions](https://www.youtube.com/watch?v=7DG3kCDx53c&list=PLRqwX-V7Uu6YEypLuls7iidwHMdCM6o2w)
 - [RegExr](https://regexr.com/)
 
