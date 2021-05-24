@@ -45,6 +45,7 @@ An introduction to Python, strings and regular expressions.
 - [Javascript vs Python Syntax Cheatsheet](https://medium.com/geekculture/javascript-vs-python-syntax-cheatsheet-9bc7c59599c6)
 - [Regular Expressions](https://www.youtube.com/watch?v=7DG3kCDx53c&list=PLRqwX-V7Uu6YEypLuls7iidwHMdCM6o2w)
 - [RegExr](https://regexr.com/)
+- [PyFPDF Tutorial](https://pyfpdf.readthedocs.io/en/latest/Tutorial/index.html)
 
 ## Discord Bot
 
